@@ -41,4 +41,4 @@ Here is an explanation on what the types mean:
 
 ![static](https://img.shields.io/badge/type-static-blue)
 
-![Collision](./Collision/collision.svg)
+![Collision](./Collision/collision.min.svg)

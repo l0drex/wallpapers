@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920" height="1080" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient id="radialGradient965-6-6-7" cx="126.55" cy="327.88" r="386.07" gradientTransform="matrix(.62967 0 0 .62967 43.899 90.541)" gradientUnits="userSpaceOnUse">
+            <stop style="stop-color:#00f;stop-opacity:.29726" offset="0"/>
+            <stop style="stop-color:#00f" offset=".65113"/>
+            <stop style="stop-color:#00f;stop-opacity:0" offset=".9999"/>
+        </radialGradient>
+        <radialGradient id="radialGradient965-6-6-7-0" cx="126.55" cy="327.88" r="386.07" gradientTransform="matrix(.72171 0 0 .72171 307.89 -154.82)" gradientUnits="userSpaceOnUse">
+            <stop style="stop-color:#f00;stop-opacity:.3" offset="0"/>
+            <stop style="stop-color:#f00" offset=".65113"/>
+            <stop style="stop-color:#f00;stop-opacity:0" offset=".9999"/>
+        </radialGradient>
+    </defs>
+    <rect width="508" height="285.75" style="fill:#030029;stroke-linecap:round;stroke-linejoin:round"/>
+    <g transform="translate(0 -11.25)">
+        <circle cx="123.58" cy="297" r="243.09" style="fill-rule:evenodd;fill:url(#radialGradient965-6-6-7);mix-blend-mode:screen;paint-order:markers fill stroke"/>
+        <circle cx="399.23" cy="81.819" r="278.63" style="fill-rule:evenodd;fill:url(#radialGradient965-6-6-7-0);mix-blend-mode:screen;paint-order:markers fill stroke"/>
+    </g>
+</svg>
