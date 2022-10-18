@@ -27,12 +27,18 @@ Here is an explanation on what the types mean:
 
 ## 🪐 Solar
 
-![theme](https://img.shields.io/badge/type-dual-blue)
+![dual](https://img.shields.io/badge/type-dual-blue)
 
 ![Solar](./Solar/static.svg)
 
 ## Yin & Yang
 
-![theme](https://img.shields.io/badge/type-dual-blue)
+![dual](https://img.shields.io/badge/type-dual-blue)
 
 ![Yin & Yang](./Yin%20&%20Yang/dynamic.svg)
+
+## Collision
+
+![static](https://img.shields.io/badge/type-static-blue)
+
+![Collision](./Collision/static.svg)

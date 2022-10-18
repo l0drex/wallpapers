@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "hoffmann_lorenz@protonmail.com",
+        "Name": "Lorenz Hoffmann"
+      }
+    ],
+    "Id": "Collision",
+    "License": "CC0-1.0",
+    "Name": "Collision"
+  }
+}

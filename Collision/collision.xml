@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8?">
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpaper>
+    <wallpaper deleted="false">
+        <name>Collision</name>
+        <filename>./contents/images/1920x1080.png</filename>
+        <filename-dark>./contents/images_dark/1920x1080.png</filename-dark>
+    </wallpaper>
+</wallpaper>
