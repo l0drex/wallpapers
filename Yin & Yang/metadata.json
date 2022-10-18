@@ -1,0 +1,13 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "hoffmann_lorenz@protonmail.com",
+        "Name": "Lorenz Hoffmann"
+      }
+    ],
+    "Id": "Yin & Yang",
+    "License": "CC0-1.0",
+    "Name": "Yin & Yang"
+  }
+}

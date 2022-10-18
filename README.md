@@ -30,3 +30,9 @@ Here is an explanation on what the types mean:
 ![theme](https://img.shields.io/badge/type-dual-blue)
 
 ![Solar](./Solar/static.svg)
+
+## Yin & Yang
+
+![theme](https://img.shields.io/badge/type-dual-blue)
+
+![Yin & Yang](./Yin%20&%20Yang/dynamic.svg)
