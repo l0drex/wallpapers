@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+        width="1919.9998"
+        height="1080"
+        viewBox="0 0 507.99994 285.75"
+        version="1.1"
+        id="svg5"
+        inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+        sodipodi:docname="Moons dynamic.svg"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
+            id="namedview7"
+            pagecolor="#ffffff"
+            bordercolor="#000000"
+            borderopacity="0.25"
+            inkscape:showpageshadow="2"
+            inkscape:pageopacity="0.0"
+            inkscape:pagecheckerboard="0"
+            inkscape:deskcolor="#d1d1d1"
+            inkscape:document-units="mm"
+            showgrid="false"
+            inkscape:zoom="0.4949748"
+            inkscape:cx="749.53311"
+            inkscape:cy="465.68027"
+            inkscape:window-width="1920"
+            inkscape:window-height="1021"
+            inkscape:window-x="0"
+            inkscape:window-y="603"
+            inkscape:window-maximized="1"
+            inkscape:current-layer="layer1" />
+    <style>
+        #stop8553, #stop7177 {
+        stop-color: #282747;
+        stop-opacity: 1;
+        animation-name: bg-animation;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        animation-timing-function: linear;
+        }
+        @keyframes bg-animation {
+        from {
+        stop-color: #282747;
+        }
+        50% {
+        stop-color: #763233;
+        }
+        to {
+        stop-color: #65b2b6;
+        }
+        }
+    </style>
+    <defs
+            id="defs2">
+        <linearGradient
+                id="bg-dark"
+                inkscape:swatch="solid">
+            <stop
+                    offset="0"
+                    id="stop8553" />
+        </linearGradient>
+        <linearGradient
+                id="fg-dark-6">
+            <stop
+                    style="stop-color:#eed7a2;stop-opacity:1;"
+                    offset="0"
+                    id="stop7175" />
+            <stop
+                    style="stop-color:#282747;stop-opacity:1;"
+                    offset="1"
+                    id="stop7177" />
+        </linearGradient>
+        <radialGradient
+                inkscape:collect="always"
+                xlink:href="#fg-dark-6"
+                id="radialGradient1307"
+                cx="856.81897"
+                cy="110.12067"
+                fx="856.81897"
+                fy="110.12067"
+                r="97.463371"
+                gradientUnits="userSpaceOnUse"
+                gradientTransform="matrix(1.9166107,5.7575759e-7,-5.7100122e-7,2.0000001,-808.0655,-104.03421)" />
+    </defs>
+    <g
+            inkscape:label="Ebene 1"
+            inkscape:groupmode="layer"
+            id="layer1"
+            transform="translate(-553.78656)">
+        <rect
+                style="fill:url(#bg-dark);fill-opacity:1.0;stroke-width:0.264583"
+                id="rect788-9"
+                width="508"
+                height="285.75"
+                x="553.78656"
+                y="4.2915344e-06"
+                ry="0" />
+        <use
+                x="0"
+                y="0"
+                xlink:href="#path7134-2"
+                id="use7404-1"
+                transform="translate(-218.27105,41.641497)" />
+        <circle
+                style="fill:url(#radialGradient1307);fill-opacity:1.0;stroke-width:0.264583"
+                id="path7134-2"
+                cx="931.58624"
+                cy="116.20763"
+                r="97.463371" />
+        <use
+                x="0"
+                y="0"
+                xlink:href="#path7134-2"
+                id="use7406-7"
+                transform="matrix(0.46716372,0,0,0.46716372,421.50856,148.92572)" />
+    </g>
+</svg>

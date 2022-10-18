@@ -23,22 +23,22 @@ Here is an explanation on what the types mean:
 
 ![dynamic](https://img.shields.io/badge/type-dynamic-blue)
 
-![Moons](./Moons/dynamic.svg)
+![Moons](./Moons/moons.min.svg)
 
 ## 🪐 Solar
 
 ![dual](https://img.shields.io/badge/type-dual-blue)
 
-![Solar](./Solar/static.svg)
+![Solar](./Solar/solar.svg)
 
 ## Yin & Yang
 
 ![dual](https://img.shields.io/badge/type-dual-blue)
 
-![Yin & Yang](./Yin%20&%20Yang/dynamic.svg)
+![Yin & Yang](./Yin%20&%20Yang/yin_yang.min.svg)
 
 ## Collision
 
 ![static](https://img.shields.io/badge/type-static-blue)
 
-![Collision](./Collision/static.svg)
+![Collision](./Collision/collision.svg)
