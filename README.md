@@ -31,13 +31,13 @@ Here is an explanation on what the types mean:
 
 ![Solar](./Solar/solar.min.svg)
 
-## Yin & Yang
+## ☯️ Yin & Yang
 
 ![dual](https://img.shields.io/badge/type-dual-blue)
 
 ![Yin & Yang](./Yin%20&%20Yang/yin_yang.min.svg)
 
-## Collision
+## 💥 Collision
 
 ![static](https://img.shields.io/badge/type-static-blue)
 
