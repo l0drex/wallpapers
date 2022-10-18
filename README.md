@@ -29,7 +29,7 @@ Here is an explanation on what the types mean:
 
 ![dual](https://img.shields.io/badge/type-dual-blue)
 
-![Solar](./Solar/solar.svg)
+![Solar](./Solar/solar.min.svg)
 
 ## Yin & Yang
 

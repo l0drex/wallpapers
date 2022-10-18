@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="508mm" height="285.75mm" version="1.1" viewBox="0 0 508 285.75" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        circle {
+            fill: none;
+            stroke-width: .7935;
+            stroke: #323162;
+        }
+
+        rect {
+            fill: #feffde;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            circle {
+                stroke: #fcffa0;
+            }
+
+            rect {
+                fill: #323162;
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            circle {
+                stroke: #323162;
+            }
+
+            rect {
+                fill: #feffde;
+            }
+        }
+    </style>
+    <rect width="508.05" height="285.75"/>
+    <circle cx="254" cy="142.88" r="8.7768"/>
+    <circle cx="254" cy="142.88" r="2.7465"/>
+    <circle cx="254" cy="142.88" r="6.3885"/>
+    <circle cx="254" cy="142.88" r="12.24" />
+    <circle cx="254" cy="142.88" r="44.242"/>
+    <circle cx="254" cy="142.88" r="80.603"/>
+    <circle cx="254" cy="142.88" r="164.19"/>
+    <circle cx="254" cy="142.88" r="265.69"/>
+</svg>
